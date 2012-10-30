@@ -1,7 +1,7 @@
 '''
 Created on Sep 18, 2012
 
-@author: renzhang
+@author: bryant
 '''
 import xmlrpclib
 
